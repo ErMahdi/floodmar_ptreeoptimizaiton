@@ -1,0 +1,27 @@
+*.pyc
+.DS_Store
+graphviz/
+figs/
+
+
+#################
+## Eclipse
+#################
+
+*.pydevproject
+.project
+.metadata
+bin/
+tmp/
+cover/
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.pyc
+*.cfg
+*.pypirc
+local.properties
+.classpath
+.settings/
+.loadpath
